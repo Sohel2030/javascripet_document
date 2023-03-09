@@ -1,0 +1,152 @@
+/*common code*/
+
+body{
+    font-size: 22px;
+    font-family: 'Press Start 2P', cursive;
+    background-color: darkkhaki;
+}
+
+
+
+#div1{
+  width: 80px;
+  height: 80px;
+  background-color: cadetblue;
+  display: none;
+}
+#div2{
+  width: 80px;
+  height: 80px;
+  background-color: darkgrey;
+  display: none;
+}
+#div3{
+  width: 80px;
+  height: 80px;
+  background-color: violet;
+  display: none;
+}
+#div4{
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: #212529;
+}
+#div5{
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: #f67d00;
+}
+#div6{
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0 0 0 / 62%);
+}
+#div7{
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: #0dcaf0;
+}
+#div8{
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: #801e0061;
+}
+#div9{
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: #adb5bd
+}
+#div10{
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+#div11{
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: darkgray;
+}
+#div12{
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+}
+#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: rgb(13 110 253 / 25%);
+  border: 1px solid #c3c3c3;
+}
+#panel {
+  padding: 50px;
+  display: none;
+}
+#panel1, #flip1 {
+  padding: 5px;
+  text-align: center;
+  background-color: rgb(13 110 253 / 25%);
+  border: 1px solid #c3c3c3;
+}
+#panel1 {
+  padding: 50px;
+}
+#panel2, #flip2 {
+  padding: 5px;
+  text-align: center;
+  background-color: rgb(13 110 253 / 25%);
+  border: 1px solid #141619;
+}
+#panel2 {
+  padding: 50px;
+  display: none;
+}
+.padding{
+  margin-bottom: 250px;
+}
+.thing{
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+    background-color: #0dcaf0;
+    position: absolute;
+}
+.things{
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+    background-color: #ffc107;
+    position: absolute;
+}
+.obj{
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+    background-color: #dc3545;
+    position: absolute;
+}
+
+
+
+.logo1{
+    font-size: 33px;
+    text-align: center;
+    border-radius: 10px;
+    height: 50px;
+    margin-top: 30px;
+    background-color: rgb(72 253 13 / 37%);
+}
+.col-lg-6 {
+    margin-bottom: 89px;
+}
